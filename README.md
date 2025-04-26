@@ -19,7 +19,7 @@ This is a full stack web application built using Handlebars (HBS), Express, and 
 - **Back End:** Express.js
 - **Database:** MySQL
 
-Clone the repository: https://github.com/ayushh-11/House_Rental_System.git
+
 
 ## To use the application. Follow the steps below :
 -node should be installed
